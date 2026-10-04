@@ -1,0 +1,12 @@
+# CC BY 4.0 — Attribution License (data only)
+
+The tool catalog data in `cli/catalog/soundtool-tools.json` is licensed under
+the Creative Commons Attribution 4.0 International License.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution requirement: when you share or adapt this catalog, you must
+attribute Soundtool and link to https://soundtool.tools
+
+Attribution example:
+  "Tool catalog data by Soundtool (https://soundtool.tools), CC BY 4.0"

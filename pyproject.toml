@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soundtool"
+version = "1.0.0"
+description = "Browse the Soundtool catalog — 67 free browser audio tools (https://soundtool.tools)"
+readme = "README.md"
+requires-python = ">=3.8"
+license = { file = "LICENSE" }
+keywords = ["audio", "tools", "soundtool", "catalog", "cli"]
+
+[project.urls]
+Homepage = "https://soundtool.tools"
+
+[project.scripts]
+soundtool = "cli.soundtool:main"
+
+[tool.setuptools]
+packages = ["cli"]
+
+[tool.setuptools.package-data]
+cli = ["catalog/*.json"]

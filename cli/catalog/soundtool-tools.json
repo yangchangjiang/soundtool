@@ -1,0 +1,477 @@
+{
+ "site": "https://soundtool.tools",
+ "note": "Public marketing snapshot of the Soundtool web toolkit. CC-BY-4.0 (attribution: link to https://soundtool.tools).",
+ "generated": "2026-10-04",
+ "count": 67,
+ "tools": [
+  {
+   "slug": "8d-audio",
+   "name": "Free Online 8D Audio Maker - Create 8D Audio",
+   "desc": "Make 8D audio: sound that rotates around your head with binaural panning. Turn any song into an immersive 360° experience.",
+   "category": "effects",
+   "icon": "🎧"
+  },
+  {
+   "slug": "ai-noise-remover",
+   "name": "Free AI Noise Remover & Reducer - Remove Background Noise Online",
+   "desc": "Free AI noise remover online: clean hiss, hum, wind, and background noise from audio with a deep neural network running in your browser. No upload, unlimited use.",
+   "category": "effects",
+   "icon": "🔇"
+  },
+  {
+   "slug": "ai-speech-to-text",
+   "name": "Free AI Speech to Text & Transcription - Transcribe Audio Online",
+   "desc": "Free AI speech to text: transcribe lectures, interviews, podcasts and meetings with OpenAI's Whisper AI running in your browser. Supports 90+ languages, exports TXT and SRT subtitles. No upload, no account.",
+   "category": "effects",
+   "icon": "🎙️"
+  },
+  {
+   "slug": "ai-text-to-speech",
+   "name": "Free AI Text to Speech & Voice Generator - Natural Voices Online",
+   "desc": "Free AI text to speech: generate natural English speech with 30+ AI voices (American and British) running in your browser. No upload, no account, unlimited use.",
+   "category": "effects",
+   "icon": "🗣️"
+  },
+  {
+   "slug": "audio-joiner",
+   "name": "Free Online Audio Joiner & Merger - Merge Audio Files",
+   "desc": "Merge multiple audio files into one seamless track. Combine songs, join recordings, and create mixtapes.",
+   "category": "editing",
+   "icon": "🧩"
+  },
+  {
+   "slug": "audio-looper",
+   "name": "Free Online Audio Looper - Loop Audio",
+   "desc": "Loop any section of audio seamlessly. Perfect for music practice, beat making, and creating repeating patterns.",
+   "category": "music",
+   "icon": "🔁"
+  },
+  {
+   "slug": "audio-trimmer",
+   "name": "Free Online Audio Trimmer & Cutter - Trim Audio Files",
+   "desc": "Trim audio with visual waveform. Select start/end points and export.",
+   "category": "editing",
+   "icon": "✂️"
+  },
+  {
+   "slug": "audio-visualizer",
+   "name": "Free Online Audio Visualizer - Music Visualizer",
+   "desc": "See your audio with real-time frequency bars, waveform, and spectrogram.",
+   "category": "utility",
+   "icon": "📊"
+  },
+  {
+   "slug": "bass-boost",
+   "name": "Free Bass Booster & Bass Boost - Make Audio Deeper Online",
+   "desc": "Boost bass and low-end frequencies in your audio. Make songs punchier, deepen podcasts, and add powerful thump to any track.",
+   "category": "effects",
+   "icon": "🔉"
+  },
+  {
+   "slug": "bass-guitar",
+   "name": "Free Bass Guitar & Electric Bass - Play Bass Online Free",
+   "desc": "Play a virtual 4-string bass guitar (E-A-D-G) online with pluck and slap styles. Record and export your basslines - free, no download.",
+   "category": "instruments",
+   "icon": "🎸"
+  },
+  {
+   "slug": "beat-maker",
+   "name": "Beat Maker & Drum Machine - 808, 909 Online Free",
+   "desc": "Free online drum machine with legendary 808, 909 and MPC-style kits. Program beats, record and export your loops - runs right in your browser.",
+   "category": "generators",
+   "icon": "🥁"
+  },
+  {
+   "slug": "binaural-beats",
+   "name": "Free Binaural Beats Generator - Create Binaural Beats Online",
+   "desc": "Generate binaural beats for focus, relaxation, sleep, and meditation.",
+   "category": "generators",
+   "icon": "🧠"
+  },
+  {
+   "slug": "bpm-detector",
+   "name": "BPM Detector & Key Finder - Song Tempo Online Free",
+   "desc": "Detect the beats per minute (BPM) of any song instantly. Analyze audio files to find tempo for DJ mixing and music production.",
+   "category": "music",
+   "icon": "💓"
+  },
+  {
+   "slug": "virtual-cello",
+   "name": "Virtual Cello Online - Play Free Cello",
+   "desc": "Play a free virtual cello online - warm, bowed string tones with your mouse, touch or keyboard. Record and export your melodies.",
+   "category": "instruments",
+   "icon": "🎻"
+  },
+  {
+   "slug": "chorus-flanger",
+   "name": "Free Chorus & Flanger Effect - Add Chorus to Audio Online",
+   "desc": "Thicken audio with chorus or create sweeping flange effects.",
+   "category": "effects",
+   "icon": "🎶"
+  },
+  {
+   "slug": "virtual-clarinet",
+   "name": "Free Virtual Clarinet Online - Play Clarinet Free",
+   "desc": "Play a free virtual clarinet online - warm woodwind tones with your mouse, touch or keyboard. Record and export your melodies.",
+   "category": "instruments",
+   "icon": "🎷"
+  },
+  {
+   "slug": "audio-compressor",
+   "name": "Free Audio Compressor - Make Audio Louder & Smoother Online",
+   "desc": "Reduce audio file size by adjusting bitrate. Free online, runs in your browser, no upload needed.",
+   "category": "editing",
+   "icon": "📉"
+  },
+  {
+   "slug": "audio-converter",
+   "name": "Free Audio Converter - Convert Audio to MP3, WAV, M4A Online",
+   "desc": "Convert audio between MP3, WAV, M4A and WebM. Free online, runs in your browser, no upload needed.",
+   "category": "editing",
+   "icon": "🔄"
+  },
+  {
+   "slug": "audio-cutter",
+   "name": "Free Online Audio Cutter & Splitter - Cut Audio Files",
+   "desc": "Cut and trim audio files with precision. Free online, runs in your browser, no upload needed.",
+   "category": "editing",
+   "icon": "✂️"
+  },
+  {
+   "slug": "delay-echo",
+   "name": "Free Delay & Echo Effect - Add Echo to Audio Online",
+   "desc": "Add delay and echo effects with time, feedback, and mix controls.",
+   "category": "effects",
+   "icon": "🪞"
+  },
+  {
+   "slug": "distortion-effect",
+   "name": "Free Distortion Effect - Add Distortion to Audio Online",
+   "desc": "Add guitar-style distortion to your audio. Adjust drive, tone, and output for everything from warm crunch to heavy fuzz.",
+   "category": "effects",
+   "icon": "🎸"
+  },
+  {
+   "slug": "virtual-drums",
+   "name": "Virtual Drums Online - Play Free Online Drum Kit",
+   "desc": "Play a free virtual drum kit online - kick, snare, hi-hat, toms and cymbals. Record your beat and export it - no download, no signup.",
+   "category": "instruments",
+   "icon": "🥁"
+  },
+  {
+   "slug": "equalizer",
+   "name": "Free Audio Equalizer & EQ - Adjust Sound Frequencies Online",
+   "desc": "Adjust audio frequencies with a 10-band visual equalizer. Free online, runs in your browser, no upload needed.",
+   "category": "effects",
+   "icon": "🎚"
+  },
+  {
+   "slug": "fade-in-out",
+   "name": "Free Fade In & Fade Out - Add Audio Fades Online",
+   "desc": "Add smooth fade in and fade out effects to your audio files. Perfect for music, podcasts, and videos.",
+   "category": "effects",
+   "icon": "🎚"
+  },
+  {
+   "slug": "virtual-flute",
+   "name": "Virtual Flute Online - Play Free Flute & Recorder",
+   "desc": "Play a free virtual flute online - soft, breathy tones with your mouse, touch or keyboard. Record and export your melody. Free online, browser-based.",
+   "category": "instruments",
+   "icon": "🪈"
+  },
+  {
+   "slug": "virtual-guitar",
+   "name": "Virtual Guitar Online - Play Free Online Guitar",
+   "desc": "Play a free virtual guitar online - strum chords or pluck strings with your mouse or keyboard. Record and export your playing - no download.",
+   "category": "instruments",
+   "icon": "🎸"
+  },
+  {
+   "slug": "virtual-harmonica",
+   "name": "Virtual Harmonica Online - Free 10-Hole Harmonica",
+   "desc": "Play a virtual harmonica online - 10 holes, blow and draw notes, Richter tuning, keyboard support. Free, no signup.",
+   "category": "instruments",
+   "icon": "🎵"
+  },
+  {
+   "slug": "virtual-harp",
+   "name": "Virtual Harp Online - Play Free Harp",
+   "desc": "Play a free virtual harp online - bright, glistening plucked strings with your mouse, touch or keyboard. Record and export your melodies.",
+   "category": "instruments",
+   "icon": "🪕"
+  },
+  {
+   "slug": "hearing-test",
+   "name": "Free Online Hearing Test - Check Your Hearing Age in 60 Seconds",
+   "desc": "Free online hearing test: measure your hearing range from 500Hz to 16kHz and estimate your hearing age in 60 seconds. Runs 100% in your browser - no upload, no signup.",
+   "category": "utility",
+   "icon": "👂"
+  },
+  {
+   "slug": "virtual-kalimba",
+   "name": "Virtual Kalimba",
+   "desc": "Play a 17-tine kalimba (thumb piano) with warm plucked tones. Click tines or use keyboard.",
+   "category": "instruments",
+   "icon": "🪕"
+  },
+  {
+   "slug": "karaoke-maker",
+   "name": "Free Karaoke Maker & Vocal Remover - Create Karaoke Tracks Online",
+   "desc": "Remove vocals from songs to create karaoke tracks. Free online, runs in your browser, no upload needed.",
+   "category": "music",
+   "icon": "🎤"
+  },
+  {
+   "slug": "metronome",
+   "name": "Free Online Metronome with BPM & Beats",
+   "desc": "Accurate online metronome with adjustable BPM. Free online, runs in your browser, no upload needed.",
+   "category": "generators",
+   "icon": "🎵"
+  },
+  {
+   "slug": "morse-code",
+   "name": "Free Morse Code Translator & Generator - Text to Morse Online",
+   "desc": "Convert text to Morse code audio or decode Morse code back to text.",
+   "category": "utility",
+   "icon": "📻"
+  },
+  {
+   "slug": "nightcore",
+   "name": "Nightcore Maker & Generator - Create Nightcore & Reverse Online Free",
+   "desc": "Transform any song into nightcore - the sped-up, high-pitched remix style with a faster tempo. Free nightcore maker in your browser.",
+   "category": "effects",
+   "icon": "🌙"
+  },
+  {
+   "slug": "noise-reducer",
+   "name": "Noise Remover & Reducer - Clean Up Audio Online Free",
+   "desc": "Reduce background noise and hum from audio. Free online, runs in your browser, no upload needed.",
+   "category": "utility",
+   "icon": "🎚"
+  },
+  {
+   "slug": "audio-normalizer",
+   "name": "Free Audio Normalizer - Normalize Audio Volume Online",
+   "desc": "Normalize audio volume to a consistent level. Free online, runs in your browser, no upload needed.",
+   "category": "editing",
+   "icon": "📊"
+  },
+  {
+   "slug": "virtual-piano",
+   "name": "Virtual Piano Online - Play Free Piano Keyboard",
+   "desc": "Play a free virtual piano online with your keyboard, mouse or touch screen. Record and export your melodies - no download, no signup.",
+   "category": "instruments",
+   "icon": "🎹"
+  },
+  {
+   "slug": "pitch-shifter",
+   "name": "Free Pitch Shifter - Change Pitch of Audio Online",
+   "desc": "Change the pitch of audio without affecting speed. Free online, runs in your browser, no upload needed.",
+   "category": "effects",
+   "icon": "🎵"
+  },
+  {
+   "slug": "voice-recorder",
+   "name": "Free Online Voice Recorder - Record Audio in Browser",
+   "desc": "Record audio directly in your browser with one click. Download as MP3 or WAV instantly. No installation required.",
+   "category": "speech",
+   "icon": "⏺"
+  },
+  {
+   "slug": "reverb",
+   "name": "Add Reverb to Audio - Reverb Generator Online Free",
+   "desc": "Add reverb to audio with room size and decay controls. Simulate halls, rooms, and plates.",
+   "category": "effects",
+   "icon": "🏛️"
+  },
+  {
+   "slug": "audio-reverser",
+   "name": "Free Audio Reverser - Reverse Audio Online",
+   "desc": "Reverse any audio file instantly. Play sounds backward for creative effects, music production, or audio analysis.",
+   "category": "editing",
+   "icon": "🔁"
+  },
+  {
+   "slug": "ringtone-maker",
+   "name": "Ringtone Maker & Generator - Create Ringtones Online Free",
+   "desc": "Create custom ringtones from your audio files. Free online, runs in your browser, no upload needed.",
+   "category": "editing",
+   "icon": "📱"
+  },
+  {
+   "slug": "virtual-saxophone",
+   "name": "Virtual Saxophone Online - Play Free Saxophone",
+   "desc": "Play a free virtual saxophone online with your keyboard or mouse. Record your melody and export it - no download, no signup.",
+   "category": "instruments",
+   "icon": "🎷"
+  },
+  {
+   "slug": "slowed-reverb",
+   "name": "Free Slowed Reverb Maker - TikTok Slow & Reverb Effect Online",
+   "desc": "Create the slowed + reverb sound that took over TikTok and YouTube. Slow songs down, add deep reverb, and export the dreamy version.",
+   "category": "effects",
+   "icon": "🕰️"
+  },
+  {
+   "slug": "soundboard",
+   "name": "Free Online Soundboard - Sound Effects Soundboard Maker",
+   "desc": "Create a free online soundboard: record or upload sounds, slice clips with a waveform editor, and fire them from 16 colored pads. Auto-saved in your browser with 16 built-in sounds - no upload, no signup.",
+   "category": "utility",
+   "icon": "🎛"
+  },
+  {
+   "slug": "sped-up",
+   "name": "Free Sped Up Audio Maker - Speed Up Songs Online",
+   "desc": "Speed up any song or audio file for TikTok and YouTube trends. Create the popular sped up version of tracks in one click.",
+   "category": "effects",
+   "icon": "⚡"
+  },
+  {
+   "slug": "speech-to-song",
+   "name": "Free AI Speech to Song Online - Turn Your Voice into a Song",
+   "desc": "Turn your voice into a song with AI pitch correction, 8 music styles, beats, bass and chords - free, 100% in your browser, no upload.",
+   "category": "music",
+   "icon": "🎤"
+  },
+  {
+   "slug": "speed-changer",
+   "name": "Free Audio Speed Changer - Change Audio Speed Online",
+   "desc": "Speed up or slow down audio without changing pitch. Free online, runs in your browser, no upload needed.",
+   "category": "effects",
+   "icon": "⏩"
+  },
+  {
+   "slug": "stem-splitter",
+   "name": "Free Stem Splitter - Separate Vocals, Drums & Bass Online",
+   "desc": "Split any song into 4 stems - vocals, drums, bass, and other. AI-powered Demucs v4 runs 100% in your browser, no upload.",
+   "category": "effects",
+   "icon": "🎚️"
+  },
+  {
+   "slug": "stereo-to-mono",
+   "name": "Free Stereo to Mono Converter - Convert Online",
+   "desc": "Convert stereo audio to mono by merging left and right channels. Essential for compatibility and audio analysis.",
+   "category": "utility",
+   "icon": "🔉"
+  },
+  {
+   "slug": "speech-to-text",
+   "name": "Free Speech to Text & Transcription - Convert Speech Online",
+   "desc": "Convert your voice to text in real-time. Free online, runs in your browser, no upload needed.",
+   "category": "speech",
+   "icon": "🎤"
+  },
+  {
+   "slug": "tone-generator",
+   "name": "Free Tone Generator - Generate Audio Tones Online",
+   "desc": "Generate sine, square, sawtooth, and triangle waves. Free online, runs in your browser, no upload needed.",
+   "category": "generators",
+   "icon": "〰️"
+  },
+  {
+   "slug": "virtual-trumpet",
+   "name": "Virtual Trumpet",
+   "desc": "Play a virtual trumpet with 3 valves and 7 fingerings. Bright brass sound with keyboard support.",
+   "category": "instruments",
+   "icon": "🎺"
+  },
+  {
+   "slug": "text-to-speech",
+   "name": "Free Text to Speech & TTS - Convert Text to Voice Online",
+   "desc": "Type text and listen to natural speech in 14 languages. Free online, runs in your browser, no upload needed.",
+   "category": "speech",
+   "icon": "🔊"
+  },
+  {
+   "slug": "tuner",
+   "name": "Guitar Tuner Online - Free Instrument Tuner for Guitar, Violin & Ukulele",
+   "desc": "Tune your instrument with real-time pitch detection. Supports guitar, violin, ukulele and more.",
+   "category": "music",
+   "icon": "🎻"
+  },
+  {
+   "slug": "virtual-ukulele",
+   "name": "Virtual Ukulele Online - Play Free Ukulele",
+   "desc": "Play a 4-string virtual ukulele with chord buttons and strumming. GCEA standard tuning.",
+   "category": "instruments",
+   "icon": "🎶"
+  },
+  {
+   "slug": "vaporwave",
+   "name": "Free Vaporwave Maker - Create Vaporwave Music Online",
+   "desc": "Make vaporwave audio: slowed tempo, filtered highs, dreamy reverb. Turn any song into a nostalgic synthwave soundscape.",
+   "category": "effects",
+   "icon": "🌴"
+  },
+  {
+   "slug": "video-to-audio",
+   "name": "Free Video to Audio Converter - Extract Audio Online",
+   "desc": "Extract audio from any video file. Convert MP4, WebM, MOV to MP3 or WAV — free, fast, and 100% in your browser.",
+   "category": "editing",
+   "icon": "🎬"
+  },
+  {
+   "slug": "virtual-violin",
+   "name": "Virtual Violin Online - Play Free Violin",
+   "desc": "Play a free virtual violin online with your keyboard or mouse. Record your melody and export it - no download, no signup.",
+   "category": "instruments",
+   "icon": "🎻"
+  },
+  {
+   "slug": "vocal-isolator",
+   "name": "Free Vocal Isolator & Vocal Remover - Isolate Vocals Online",
+   "desc": "Isolate or remove vocals using phase cancellation. Extract instrumentals or a cappella.",
+   "category": "speech",
+   "icon": "🎙️"
+  },
+  {
+   "slug": "vocal-tuner",
+   "name": "Vocal Tuner - Pitch Correction & T-Pain Online",
+   "desc": "Free AI vocal tuner online: snap off-key singing to the nearest note or musical scale. From subtle polish to the robotic T-Pain effect - runs in your browser, no upload.",
+   "category": "effects",
+   "icon": "🎤"
+  },
+  {
+   "slug": "voice-changer",
+   "name": "Free Voice Changer & Voice Effects - Change Your Voice Online",
+   "desc": "Apply fun voice effects including chipmunk, deep voice, robot, echo, and reverb in real time.",
+   "category": "speech",
+   "icon": "🎭"
+  },
+  {
+   "slug": "voice-cloning",
+   "name": "Free AI Voice Cloning & Voice Clone Maker - Clone Any Voice Online",
+   "desc": "Free AI voice cloning online: record a 10-second voice sample and make it speak any text in Chinese or English. Runs 100% in your browser - no upload, no account, no limits.",
+   "category": "speech",
+   "icon": "🎙️"
+  },
+  {
+   "slug": "voice-to-instrument",
+   "name": "Voice to Instrument & MIDI - Hum to Notes Online",
+   "desc": "Free AI melody converter: hum or sing a tune and hear it as piano, guitar, saxophone, or strings. Pitch detection runs 100% in your browser - no upload, no account.",
+   "category": "effects",
+   "icon": "🎹"
+  },
+  {
+   "slug": "volume-booster",
+   "name": "Volume Booster - Make Audio Louder Online Free",
+   "desc": "Increase audio volume up to 300% without distortion. Boost quiet audio files, podcasts, and recordings.",
+   "category": "utility",
+   "icon": "🔊"
+  },
+  {
+   "slug": "white-noise-generator",
+   "name": "Free White Noise Generator - White Noise Online",
+   "desc": "Generate white, pink, and brown noise for sleep. Free online, runs in your browser, no upload needed.",
+   "category": "generators",
+   "icon": "🌊"
+  },
+  {
+   "slug": "virtual-xylophone",
+   "name": "Free Virtual Xylophone Online - Play Xylophone Free",
+   "desc": "Play a 25-key two-row virtual xylophone (white C-major bars + black sharps) with bright percussive tones. Record and export your melodies - free, no download.",
+   "category": "instruments",
+   "icon": "🎵"
+  }
+ ]
+}
